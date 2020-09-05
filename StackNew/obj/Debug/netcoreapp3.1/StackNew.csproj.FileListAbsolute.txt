@@ -1,0 +1,12 @@
+C:\Users\Sandip\source\repos\StackNew\StackNew\bin\Debug\netcoreapp3.1\StackNew.exe
+C:\Users\Sandip\source\repos\StackNew\StackNew\bin\Debug\netcoreapp3.1\StackNew.deps.json
+C:\Users\Sandip\source\repos\StackNew\StackNew\bin\Debug\netcoreapp3.1\StackNew.runtimeconfig.json
+C:\Users\Sandip\source\repos\StackNew\StackNew\bin\Debug\netcoreapp3.1\StackNew.runtimeconfig.dev.json
+C:\Users\Sandip\source\repos\StackNew\StackNew\bin\Debug\netcoreapp3.1\StackNew.dll
+C:\Users\Sandip\source\repos\StackNew\StackNew\bin\Debug\netcoreapp3.1\StackNew.pdb
+C:\Users\Sandip\source\repos\StackNew\StackNew\obj\Debug\netcoreapp3.1\StackNew.AssemblyInfoInputs.cache
+C:\Users\Sandip\source\repos\StackNew\StackNew\obj\Debug\netcoreapp3.1\StackNew.AssemblyInfo.cs
+C:\Users\Sandip\source\repos\StackNew\StackNew\obj\Debug\netcoreapp3.1\StackNew.csproj.CoreCompileInputs.cache
+C:\Users\Sandip\source\repos\StackNew\StackNew\obj\Debug\netcoreapp3.1\StackNew.dll
+C:\Users\Sandip\source\repos\StackNew\StackNew\obj\Debug\netcoreapp3.1\StackNew.pdb
+C:\Users\Sandip\source\repos\StackNew\StackNew\obj\Debug\netcoreapp3.1\StackNew.genruntimeconfig.cache
